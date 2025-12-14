@@ -1,3 +1,4 @@
+``` mermaid
 flowchart TD
     %% Student Learning Flow - Core Sequence
     A[Logged-In Dashboard<br/>with Active Courses] --> B
@@ -70,4 +71,4 @@ flowchart TD
     class A,B1,B2,C,D,E1,E2,E3,F1,F2,G,I,L,M,O,P primary
     class S1,S2,S3,T1,T2,T3 secondary
     class H,J,N,Q decision
-    class I completed
+    class I completed ```
